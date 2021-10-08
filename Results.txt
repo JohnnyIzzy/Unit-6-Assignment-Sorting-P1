@@ -1,0 +1,16 @@
+
+Start time for program 1: 0.000141
+
+End time for program 1: 0.012048
+
+Start time for program 1: 0.000138
+
+End time for program 1: 0.012504
+
+Start time for program 1: 0.000144
+
+End time for program 1: 0.011957
+
+Start time for program 1: 0.000248
+
+End time for program 1: 0.012549
